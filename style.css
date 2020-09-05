@@ -8,7 +8,7 @@
   border: none;
   cursor: pointer;
   padding-top: 16px;
-  background-color: #878787;
+  background-color: #898989;
 }
 
 .dropdown {
@@ -39,5 +39,5 @@
 }
 
 .dropdown:hover .dropbtn {
-  background-color: #757575;
+  background-color: #787878;
 }
