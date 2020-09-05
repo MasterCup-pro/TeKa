@@ -32,12 +32,12 @@
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #757575}
+.dropdown-content a:hover {background-color: #A9A9A9}
 
 .dropdown:hover .dropdown-content {
   display: block;
 }
 
 .dropdown:hover .dropbtn {
-  background-color: #A9A9A9;
+  background-color: #757575;
 }
