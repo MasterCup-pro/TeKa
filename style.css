@@ -9,6 +9,7 @@
   cursor: pointer;
   padding-top: 16px;
   background-color: #898989;
+  text-decoration: none;
 }
 
 .dropdown {
