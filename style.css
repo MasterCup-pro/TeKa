@@ -9,7 +9,8 @@ body {
 
 ul {
     position: absolute;
-    align:center;
+    align: center;
+    margin-right: -2px;
     padding: 0;
     list-style-type: none;
 }
