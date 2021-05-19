@@ -19,7 +19,7 @@ li {
     color: orange;
     border-left: 0.08em solid;
     position: relative;
-    margin-top: 0;
+    margin-top: 0.8em;
     cursor: pointer;
 }
 
