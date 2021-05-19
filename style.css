@@ -67,3 +67,8 @@ li:hover span {
     transform: translateX(0.15em);
 }
 
+h1 {
+    text-align: center;
+    color:orange; 
+    font-size:108px;
+}
