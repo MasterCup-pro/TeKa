@@ -70,7 +70,7 @@ li:hover span {
 }
 
 h1 {
-    text-align: center;
+    align: center;
     color: orange; 
     font-size: 108px;
     margin: 0% 0% 0% 0%;
