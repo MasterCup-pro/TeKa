@@ -4,7 +4,7 @@
 		<meta charset= "UTF-8">
 		<link rel="stylesheet" href="style.css">
 		<link rel="shortcut icon" href="teka.jpg">
-	    <title>TeKa Clan</title>
+	    	<title>TeKa Clan</title>
     </head>
     <body>
 		<h1>TeKa Clan</h1>
