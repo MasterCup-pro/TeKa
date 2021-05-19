@@ -71,6 +71,5 @@ h1 {
     text-align: center;
     color: orange; 
     font-size: 108px;
-    margin-top: -40%;
-    margin-right: -72.36;
+    margin: -40% 0% -40% 0%;
 }
